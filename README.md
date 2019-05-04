@@ -5,3 +5,5 @@ Purpose: detect hiden web sercurity danger with mechine learning method.
 2.Deploy with Go
 3.Code with Java
 4.Presitation with JS
+
+as to the common method
